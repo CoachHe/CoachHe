@@ -1,9 +1,12 @@
 <component name="InspectionProjectProfileManager">
   <profile version="1.0">
     <option name="myName" value="Project Default" />
+<<<<<<< HEAD
     <inspection_tool class="JavadocDeclaration" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ADDITIONAL_TAGS" value="project,date" />
     </inspection_tool>
+=======
+>>>>>>> 2cc89cdfc86c981699b0188615696d4618db93da
     <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
       <option name="ignoredErrors">
         <list>
