@@ -7,7 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Chapter18_StrategyMode" />
+        <module name="Chapter17_DecorationMode" />
         <module name="Chapter10_ModelFunctionMode" />
+        <module name="Chapter19_AdapterMode" />
         <module name="Chapter12_ProxyMode" />
       </profile>
     </annotationProcessing>
